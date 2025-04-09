@@ -10,11 +10,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Ingesting-FHIR-Data-with-the-Healthcare-API-GSP457/refs/heads/main/qwiklab_explorers_GSP457.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Optimizing-Cost-with-Google-Cloud-Storage-GSP649/refs/heads/main/qwiklab_explorers_gsp649.sh
 
-sudo chmod +x qwiklab_explorers_GSP457.sh
+sudo chmod +x qwiklab_explorers_gsp649.sh
 
-./qwiklab_explorers_GSP457.sh
+./qwiklab_explorers_gsp649.sh
 ```
 - # Follow the next steps from the video carefully
 
