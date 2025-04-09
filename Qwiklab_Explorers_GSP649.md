@@ -16,7 +16,6 @@ sudo chmod +x qwiklab_explorers_gsp649.sh
 
 ./qwiklab_explorers_gsp649.sh
 ```
-- # Follow the next steps from the video carefully
 
 ---
 
